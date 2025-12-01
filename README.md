@@ -29,6 +29,7 @@ This repository maintains a list of "unblocked" browser-based projects that have
 | Project Name | Engine | Type | Status | Access Point |
 | :--- | :--- | :--- | :---: | :--- |
 | **Vex 4** | HTML5 / Canvas | Physics Platformer | ✅ Unblocked | **[Launch Project](https://www.mirazone.site/vex-4)** |
+| **Fireboy and Watergirl** | HTML5 Canvas / WebGL | Stable 60 FPS on integrated graphics (Intel HD 4000+) | ✅ Unblocked | **[Launch Project](https://www.mirazone.site/fireboy-watergirl)** |
 
 ### Detailed Descriptions
 
@@ -36,6 +37,9 @@ This repository maintains a list of "unblocked" browser-based projects that have
 *   **Description**: A vector-based parkour simulation featuring advanced collision detection and momentum physics.
 *   **Optimization**: Optimized for 60 FPS on non-GPU accelerated hardware.
 *   **Network Note**: Uses standard HTTPS port 443; typically bypasses educational firewalls.
+
+#### [Fireboy and Watergirl](https://www.mirazone.site/fireboy-watergirl)
+This project is a faithful HTML5 port of the classic puzzle-platformer, utilizing a lightweight physics engine for fluid character movement and object interaction. It features optimized asset loading (sprite sheets) to minimize HTTP requests, ensuring instant execution on constrained networks and low-power devices like Chromebooks.
 
 ## 🛠 Usage
 
