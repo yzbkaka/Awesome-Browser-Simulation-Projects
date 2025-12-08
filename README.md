@@ -30,6 +30,7 @@ This repository maintains a list of "unblocked" browser-based projects that have
 | :--- | :--- | :--- | :---: | :--- |
 | **Vex 4** | HTML5 / Canvas | Physics Platformer | ✅ Unblocked | **[Launch Project](https://www.mirazone.site/vex-4)** |
 | **Fireboy and Watergirl** | HTML5 Canvas / WebGL | Stable 60 FPS on integrated graphics (Intel HD 4000+) | ✅ Unblocked | **[Launch Project](https://www.mirazone.site/fireboy-watergirl)** |
+| **Getaway Shootout** | WebGL / HTML5 Canvas | 60 FPS Target (Hardware Acceleration) | ✅ Unblocked | **[Launch Project](https://www.mirazone.site/getaway-shootout)** |
 
 ### Detailed Descriptions
 
@@ -40,6 +41,9 @@ This repository maintains a list of "unblocked" browser-based projects that have
 
 #### [Fireboy and Watergirl](https://www.mirazone.site/fireboy-watergirl)
 This project is a faithful HTML5 port of the classic puzzle-platformer, utilizing a lightweight physics engine for fluid character movement and object interaction. It features optimized asset loading (sprite sheets) to minimize HTTP requests, ensuring instant execution on constrained networks and low-power devices like Chromebooks.
+
+#### [Getaway Shootout](https://www.mirazone.site/getaway-shootout)
+This title utilizes WebGL rendering to execute high-performance physics simulations and chaotic gameplay mechanics directly within the HTML5 Canvas. By optimizing the JavaScript event loop for low-latency input handling and rigid body collision detection, it delivers a seamless, cross-platform experience that runs natively in modern browsers without the need for external plugins.
 
 ## 🛠 Usage
 
